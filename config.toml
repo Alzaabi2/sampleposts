@@ -1,0 +1,4 @@
+baseURL = 'samplepost.github.io/'
+languageCode = 'en-us'
+title = 'Title Posts'
+theme = "ananke" 
